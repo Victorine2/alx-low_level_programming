@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - that prints the size of various types on the computer it is compiled and run on
- * Return - 0 is success
+ * main -  entry point and is 0
+ * Description : Prints size of various data types
+ * return - 0 is success
  */
 int main(void)
 {
