@@ -1,10 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - point of entry
- * Description: 'Check if a int n is positive or negative'
- * Return : (0) is a success
+ * main - Entry point
+ * main - Assign random number to variable n
+ * when executed with if else function, it prints a positive
+ * negative or zero number
+ * Return: 0 Is a success.
  */
 
 int main(void)
