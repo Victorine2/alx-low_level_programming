@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main -  entry point
- * return - 0 if successful else 1
+ * main - To print the size of various data types using printf function
+ * Return: 0 Is a success.
  */
 int main(void)
+
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 	printf("Size of an int: %lu byte(s)\n", sizeof(int));
