@@ -9,17 +9,17 @@
 
 int main(void)
 {
-	int a;
-
 	char b;
 
-	a = '0';
-	b = 'a';
+	int c;
 
+	b = 'a';
+	c = 0;
+	
 	while
-		(a < 10) {
-			putchar(a + '0');
-			a++;
+		(c < 10) {
+			putchar(c + '0');
+			c++;
 		}
 	while
 		(b <= 'f') {
